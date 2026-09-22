@@ -1,0 +1,2 @@
+# Rename the folder to .streamlit and this file to secrets.toml when deploying.
+# OPENAI_API_KEY = "your_key_here"
